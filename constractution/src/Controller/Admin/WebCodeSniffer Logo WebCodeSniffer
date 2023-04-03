@@ -1,0 +1,277 @@
+WebCodeSniffer Logo WebCodeSniffer
+home
+notifications_active
+image
+info
+
+
+click on the first tab "code" to edit your code
+clean your code according to the report
+"sniff" your code again
+code
+report
+Standard : PSR12
+
+----------------------------------------------------------------------
+FOUND 179 ERRORS AND 10 WARNINGS AFFECTING 89 LINES
+----------------------------------------------------------------------
+   1 | ERROR   | [x] End of line character is invalid; expected "\n"
+     |         |     but found "\r\n"
+  23 | ERROR   | [x] Function closing brace must go on the next line
+     |         |     following the body; found 1 blank lines before
+     |         |     brace
+  30 | ERROR   | [x] No space found after comma in function call
+  30 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+  30 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+  31 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+  31 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+  31 | WARNING | [ ] Line exceeds 120 characters; contains 143
+     |         |     characters
+  32 | ERROR   | [x] No space found after comma in function call
+  42 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+  42 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+  44 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+  44 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+  51 | ERROR   | [x] Expected at least 1 space before "."; 0 found
+  51 | ERROR   | [x] Expected at least 1 space after "."; 0 found
+  51 | ERROR   | [x] Expected at least 1 space before "."; 0 found
+  51 | ERROR   | [x] Expected at least 1 space after "."; 0 found
+  51 | ERROR   | [x] Expected at least 1 space before "."; 0 found
+  51 | ERROR   | [x] Expected at least 1 space after "."; 0 found
+  51 | ERROR   | [x] Expected at least 1 space before "."; 0 found
+  51 | ERROR   | [x] Expected at least 1 space after "."; 0 found
+  51 | WARNING | [ ] Line exceeds 120 characters; contains 169
+     |         |     characters
+  55 | WARNING | [ ] Line exceeds 120 characters; contains 127
+     |         |     characters
+  55 | ERROR   | [x] Whitespace found at end of line
+  59 | ERROR   | [x] Function closing brace must go on the next line
+     |         |     following the body; found 1 blank lines before
+     |         |     brace
+  60 | ERROR   | [x] Whitespace found at end of line
+  61 | ERROR   | [x] Opening brace should be on a new line
+  63 | ERROR   | [x] Expected at least 1 space after "="; 0 found
+  66 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+  66 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+  68 | ERROR   | [x] Expected 1 space after closing brace; 0 found
+  68 | ERROR   | [x] Expected 1 space(s) after ELSE keyword; 0 found
+  71 | ERROR   | [x] Line indented incorrectly; expected 8 spaces,
+     |         |     found 7
+  71 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+  71 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+  72 | WARNING | [ ] Line exceeds 120 characters; contains 123
+     |         |     characters
+  72 | ERROR   | [x] Whitespace found at end of line
+  73 | ERROR   | [x] Line indented incorrectly; expected 8 spaces,
+     |         |     found 12
+  73 | ERROR   | [x] Closing brace indented incorrectly; expected 7
+     |         |     spaces, found 12
+  88 | ERROR   | [x] No space found after comma in function call
+  88 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+  88 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+  89 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+  89 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+  90 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+  90 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+  90 | ERROR   | [x] Expected 1 space after FUNCTION keyword; 0 found
+  90 | ERROR   | [x] Expected 1 space before USE keyword; found 0
+  90 | ERROR   | [x] Expected 1 space before opening brace; found 0
+  90 | ERROR   | [x] Opening brace must be the last content on the
+     |         |     line
+  90 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+  90 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+  90 | ERROR   | [x] Closing brace must be on a line by itself
+  90 | WARNING | [ ] Line exceeds 120 characters; contains 157
+     |         |     characters
+  90 | ERROR   | [x] Each PHP statement must be on a line by itself
+  93 | ERROR   | [x] Expected 1 space(s) after FOREACH keyword; 0
+     |         |     found
+  93 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+  94 | ERROR   | [x] Expected 1 space(s) after FOREACH keyword; 0
+     |         |     found
+  94 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+  95 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+  95 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+  99 | ERROR   | [x] Line indented incorrectly; expected at least 24
+     |         |     spaces, found 23
+ 101 | ERROR   | [x] Blank line found at end of control structure
+ 102 | ERROR   | [x] Closing brace must be on a line by itself
+ 106 | WARNING | [ ] Line exceeds 120 characters; contains 123
+     |         |     characters
+ 106 | ERROR   | [x] Whitespace found at end of line
+ 107 | ERROR   | [x] Expected 1 space after closing brace; 0 found
+ 107 | ERROR   | [x] Expected 1 space(s) after ELSE keyword; 0 found
+ 108 | ERROR   | [x] Line indented incorrectly; expected at least 16
+     |         |     spaces, found 12
+ 111 | ERROR   | [x] No space found after comma in function call
+ 111 | ERROR   | [x] No space found after comma in function call
+ 111 | ERROR   | [x] No space found after comma in function call
+ 115 | ERROR   | [x] Opening brace should be on a new line
+ 116 | ERROR   | [x] Expected at least 1 space after "="; 0 found
+ 119 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 119 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 121 | ERROR   | [x] Expected 1 space after closing brace; 0 found
+ 121 | ERROR   | [x] Expected 1 space(s) after ELSE keyword; 0 found
+ 124 | ERROR   | [x] No space found after comma in function call
+ 126 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 126 | ERROR   | [x] No space found after comma in function call
+ 126 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 127 | ERROR   | [x] Whitespace found at end of line
+ 134 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+     |         |     found 5
+ 134 | ERROR   | [x] Opening brace should be on a new line
+ 138 | ERROR   | [x] No space found after comma in function call
+ 138 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+ 138 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+ 139 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+ 139 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+ 139 | WARNING | [ ] Line exceeds 120 characters; contains 143
+     |         |     characters
+ 140 | ERROR   | [x] No space found after comma in function call
+ 141 | ERROR   | [x] Closing brace indented incorrectly; expected 5
+     |         |     spaces, found 4
+ 143 | ERROR   | [x] Opening brace should be on a new line
+ 148 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 148 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 150 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 150 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 157 | ERROR   | [x] Expected at least 1 space before "."; 0 found
+ 157 | ERROR   | [x] Expected at least 1 space after "."; 0 found
+ 157 | ERROR   | [x] Expected at least 1 space before "."; 0 found
+ 157 | ERROR   | [x] Expected at least 1 space after "."; 0 found
+ 157 | ERROR   | [x] Expected at least 1 space before "."; 0 found
+ 157 | ERROR   | [x] Expected at least 1 space after "."; 0 found
+ 157 | ERROR   | [x] Expected at least 1 space before "."; 0 found
+ 157 | ERROR   | [x] Expected at least 1 space after "."; 0 found
+ 157 | WARNING | [ ] Line exceeds 120 characters; contains 180
+     |         |     characters
+ 161 | WARNING | [ ] Line exceeds 120 characters; contains 123
+     |         |     characters
+ 161 | ERROR   | [x] Whitespace found at end of line
+ 165 | ERROR   | [x] Function closing brace must go on the next line
+     |         |     following the body; found 1 blank lines before
+     |         |     brace
+ 166 | ERROR   | [x] Whitespace found at end of line
+ 167 | ERROR   | [x] Opening brace should be on a new line
+ 169 | ERROR   | [x] Expected at least 1 space after "="; 0 found
+ 170 | ERROR   | [x] Expected at least 1 space after "="; 0 found
+ 173 | ERROR   | [x] Line indented incorrectly; expected 8 spaces,
+     |         |     found 12
+ 173 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 173 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 175 | ERROR   | [x] Line indented incorrectly; expected 8 spaces,
+     |         |     found 12
+ 175 | ERROR   | [x] Expected 1 space after closing brace; 0 found
+ 175 | ERROR   | [x] Expected 1 space(s) after ELSE keyword; 0 found
+ 177 | ERROR   | [x] Line indented incorrectly; expected 8 spaces,
+     |         |     found 12
+ 178 | ERROR   | [x] Line indented incorrectly; expected 8 spaces,
+     |         |     found 12
+ 178 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 178 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 179 | ERROR   | [x] Whitespace found at end of line
+ 180 | ERROR   | [x] Line indented incorrectly; expected 8 spaces,
+     |         |     found 12
+ 185 | ERROR   | [x] Whitespace found at end of line
+ 195 | ERROR   | [x] No space found after comma in function call
+ 195 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+ 195 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+ 197 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+ 197 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+ 197 | ERROR   | [x] Expected 1 space after FUNCTION keyword; 0 found
+ 197 | ERROR   | [x] Expected 1 space before USE keyword; found 0
+ 197 | ERROR   | [x] Expected 1 space before opening brace; found 0
+ 197 | ERROR   | [x] Opening brace must be the last content on the
+     |         |     line
+ 197 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+ 197 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+ 197 | ERROR   | [x] Closing brace must be on a line by itself
+ 197 | WARNING | [ ] Line exceeds 120 characters; contains 157
+     |         |     characters
+ 197 | ERROR   | [x] Each PHP statement must be on a line by itself
+ 200 | ERROR   | [x] Expected 1 space(s) after FOREACH keyword; 0
+     |         |     found
+ 200 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 201 | ERROR   | [x] Expected 1 space(s) after FOREACH keyword; 0
+     |         |     found
+ 201 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 202 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 202 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 206 | ERROR   | [x] Line indented incorrectly; expected at least 24
+     |         |     spaces, found 23
+ 208 | ERROR   | [x] Blank line found at end of control structure
+ 209 | ERROR   | [x] Closing brace must be on a line by itself
+ 213 | ERROR   | [x] Whitespace found at end of line
+ 214 | ERROR   | [x] Expected 1 space after closing brace; 0 found
+ 214 | ERROR   | [x] Expected 1 space(s) after ELSE keyword; 0 found
+ 215 | ERROR   | [x] Line indented incorrectly; expected at least 16
+     |         |     spaces, found 12
+ 218 | ERROR   | [x] No space found after comma in function call
+ 218 | ERROR   | [x] No space found after comma in function call
+ 218 | ERROR   | [x] No space found after comma in function call
+ 223 | ERROR   | [x] Opening brace should be on a new line
+ 224 | ERROR   | [x] Expected at least 1 space after "="; 0 found
+ 227 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 227 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 229 | ERROR   | [x] Expected 1 space after closing brace; 0 found
+ 229 | ERROR   | [x] Expected 1 space(s) after ELSE keyword; 0 found
+ 232 | ERROR   | [x] No space found after comma in function call
+ 234 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 234 | ERROR   | [x] No space found after comma in function call
+ 234 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 235 | ERROR   | [x] Whitespace found at end of line
+ 243 | ERROR   | [x] Opening brace should be on a new line
+ 247 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+ 247 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+ 247 | ERROR   | [x] Expected at least 1 space before "=>"; 0 found
+ 247 | ERROR   | [x] Expected at least 1 space after "=>"; 0 found
+ 248 | ERROR   | [x] Line indented incorrectly; expected 8 spaces,
+     |         |     found 9
+ 248 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 248 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 249 | ERROR   | [x] Line indented incorrectly; expected 12 spaces,
+     |         |     found 9
+ 249 | ERROR   | [x] Expected 1 space(s) after IF keyword; 0 found
+ 249 | ERROR   | [x] Expected 1 space(s) after closing parenthesis;
+     |         |     found 0
+ 250 | ERROR   | [x] Line indented incorrectly; expected at least 16
+     |         |     spaces, found 12
+ 251 | ERROR   | [x] Line indented incorrectly; expected 12 spaces,
+     |         |     found 9
+ 251 | ERROR   | [x] Expected 1 space after closing brace; 0 found
+ 251 | ERROR   | [x] Expected 1 space(s) after ELSE keyword; 0 found
+ 252 | ERROR   | [x] Line indented incorrectly; expected at least 16
+     |         |     spaces, found 12
+ 253 | ERROR   | [x] Line indented incorrectly; expected 12 spaces,
+     |         |     found 9
+ 254 | ERROR   | [x] Closing brace indented incorrectly; expected 9
+     |         |     spaces, found 8
+ 254 | ERROR   | [x] Whitespace found at end of line
+ 257 | ERROR   | [x] Expected 1 newline at end of file; 0 found
+ 257 | ERROR   | [x] A closing tag is not permitted at the end of a
+     |         |     PHP file
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 179 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------
+
+Time: 136ms; Memory: 6Mb
+

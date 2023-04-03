@@ -1,0 +1,76 @@
+.error{
+    width: 100%;
+}
+
+
+.active{
+    color: red;
+  }
+
+  .tabbedPanels { 
+    margin-top: 25px;
+    margin: auto;
+    
+  }
+
+.panelContainer {
+clear: left;
+margin-bottom: 25px;
+
+background-color: #fff;
+padding: 20px;
+/* add height if you want equal panels */
+}
+
+
+
+
+/* reset ul defaults  */
+.tabs {
+margin: 0;
+padding: 0;	
+list-style: none;	
+}
+
+/* set li properties  */
+.tabs li {
+float: left;
+
+padding: 0;
+margin: 0;
+text-align: center;
+}
+
+/* all formatting goes inside 'a' */
+.tabs a {
+display: block;
+text-decoration: none;
+color: #000;
+font-weight: bold;
+padding:  8px;
+border: 2px solid #EC407A;
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+background-color: #fff;
+margin-bottom: -2px;  /* negative margin will move it down
+                 to blend in with outer border  */
+}
+
+
+.tabs a.active {
+border-bottom: 2px solid #EC407A;
+background-color: #EC407A;
+color:  #fff;
+font-weight: bold;
+}
+
+.panel img {
+ 
+margin-top: 10px;
+}
+
+.panel p  {
+ 
+margin-bottom: 0px;
+}
+
